@@ -1,1 +1,1 @@
-jQuery('body.home').find('*[data-scrollreveal!=""]').removeAttr('data-scrollreveal');
+jQuery('#carousel-homepage-latestnews').carousel('pause');
