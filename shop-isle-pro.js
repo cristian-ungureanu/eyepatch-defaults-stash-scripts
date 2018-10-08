@@ -1,0 +1,1 @@
+jQuery('.owl-carousel').trigger('stop.owl.autoplay');
